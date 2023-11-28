@@ -1,0 +1,20 @@
+-<!DOCTYPE html>
+<html>
+<head>
+<title> Welcome to University of Cambodia</title>
+</head>
+<body>
+<h1 style="color: rgb(96, 87, 38);">Welcome to The University Of Cambodia</h1>
+<img src="/images8/4.jpg.jpg" alt="pic" width="1540" height="200">
+<p style="color: rgb(27, 123, 27);"> College Science and Technology </p>
+<p style="color: rgb(42, 136, 42);"> University of Cambodia was established. It was officially opened by Prime Minister Samdech Techo Hun Sen on 23 June 2003. Originally located in three leased buildings just south of the Independence Monument, today the University is firmly established on over 3 hectares of land in the middle of Phnom Penh.</p>
+<img src="/images8/2.jpg.jpg" alt="pic" width="500" height="300">
+<img src="/images8/3.jpg.jpg" alt="pic" width="500" height="300">
+<h4 style="color:blue;"> 1.Information Technology </h4>
+<p> IT is Information Technology</p>
+<del style="color:#000000 ;">not Ice Tea or International Toiled</del><br>
+<h4 style="color: rgb(233, 15, 15);"> 2.Computer Science </h4>
+<em style="color:black;">Computer Science is understanding how and why technologies work, exploring whether and how technology could solve real-life problems, investigating procedures, creating solutions, and learning about computing systems, programming, data, networks</em><br>
+<h4 style="color:rgb(255, 128, 82);">3.Electronics and Telecommunication</h4>
+<p><b> Electronics and Telecommunication Engineeringequips students with a rigorous understanding of basic science and engineering concepts so that learners may acquire a full knowledge of computer architecture and microprocessors, VLSI and embedded systems, electromagnetic field theory, analog and digital.</b></p>
+</html>
